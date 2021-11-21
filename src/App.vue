@@ -1,5 +1,5 @@
 <template>
-  <div>geihhhhhagggag</div>
+  <div>geihhhhhagggag爱护公共</div>
 </template>
 
 <style lang="less">
